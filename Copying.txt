@@ -1,0 +1,1 @@
+﻿Files in this project are licensed under the GPL, as noted in the file headers. Please look at the file headers to find the correct licensing information.
